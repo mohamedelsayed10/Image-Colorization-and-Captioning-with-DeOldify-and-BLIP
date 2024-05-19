@@ -1,4 +1,4 @@
-# Image Colorization and Captioning with DeOldify and BLIP
+# Video & Image Colorization and Captioning with DeOldify and BLIP
 
 This project combines the power of DeOldify for image colorization and Salesforce's BLIP model for image captioning. It allows you to automatically colorize images and generate captions based on their content.
 
