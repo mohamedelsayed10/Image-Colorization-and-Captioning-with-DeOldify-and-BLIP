@@ -56,8 +56,10 @@ By combining these capabilities, the project aims to create a richer, more engag
 
 
 # test using deployment 
-![alt text](testcases\results\beforetest.png)
-![alt text](testcases\results\aftertest.png)
+![beforetest](https://github.com/mohamedelsayed10/Image-Colorization-and-Captioning-with-DeOldify-and-BLIP/assets/87568101/85d26802-9e23-48c9-be5e-7ce723850a68)
+![aftertest](https://github.com/mohamedelsayed10/Image-Colorization-and-Captioning-with-DeOldify-and-BLIP/assets/87568101/3c47ebab-6cea-4633-b9a7-76350c89fe54)
+
+
 
 
 
